@@ -21,11 +21,11 @@
 
 <div align="center" style="display: inline_block">
   <h3>Me siga 😎</h3>
-  <a href="https://twitter.com/Jean_lucks"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/jean-lucas-almeida-mota-957b0b152/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jean-lucas-almeida-mota-957b0b152/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+  <a href="https://www.linkedin.com/in/jean-lucas-almeida-mota-957b0b152/"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=whiteg" alt=""/></a>
+  <a href="mailto:jean.lk@hotmail.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=""/></a>
   
 </div>
-
-
+  
 
 

@@ -9,13 +9,6 @@
 </div>
 
  ##
- 
- <div align="center" style="display: inline_block">
-  <h3>Portfólio</h3>
-  <a href="https://jeanlkmota.herokuapp.com/">jeanlkmota.herokuapp.com</a
-</div>
-
- ##
 
 <div align="center" style="display: inline_block">
   <h3>Skills</h3>
